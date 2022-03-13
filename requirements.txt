@@ -1,3 +1,4 @@
-gym[all]
 numpy
 jupyter
+scipy
+gym[all]
